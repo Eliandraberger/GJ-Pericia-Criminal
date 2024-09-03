@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perito Criminal</title> 
+    <link rel="stylesheet"     href="style.css">
+</head>
+
+<body>
+
+    <header>
+
+        <a class="links" href="index.html">O que faz</a>
+        <a class="links" href="Graduação.html"> Gradução</a>
+        <a class="links" href="Areas de atuação.html">Areas de atuação</a>
+    </header>
+    
+    <main>
+
+    <body>
+
+        <html>
